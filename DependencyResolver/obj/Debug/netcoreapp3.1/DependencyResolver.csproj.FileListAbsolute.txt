@@ -1,0 +1,17 @@
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\DependencyResolver.deps.json
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\DependencyResolver.dll
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\DependencyResolver.pdb
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.csproj.AssemblyReference.cache
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.AssemblyInfoInputs.cache
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.AssemblyInfo.cs
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.csproj.CopyComplete
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.dll
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\obj\Debug\netcoreapp3.1\DependencyResolver.pdb
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\teja.yelagonda\source\repos\Khel_Project\DependencyResolver\bin\Debug\netcoreapp3.1\Shared.pdb
